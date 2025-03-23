@@ -1,5 +1,7 @@
 # Azov The Resistance
 
+[![Play Now](https://img.shields.io/badge/Play%20Now-Online-green)](https://darkesto.github.io/azov-the-resistance/)
+
 A 2D shooting game built with HTML5 Canvas and JavaScript. Fight against enemies, collect power-ups, and liberate regions in this action-packed game.
 
 ## Features
